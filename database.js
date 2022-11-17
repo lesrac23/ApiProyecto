@@ -34,10 +34,10 @@ function crearElement(element){
 
 const info ={
 
-    elementName: "Lesly Ramos Carranza",
+    elementName: "Juan Gabriel Sanchez",
     expNum: 60900,
     contactNumer: 16475716,
-    rfc: "RACL800406",
+    rfc: "GASJ800406",
     grade: "Suboficial"
 }
 
